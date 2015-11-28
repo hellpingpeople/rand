@@ -1,2 +1,3 @@
 # rand
 Randomizer
+Генератор кодов
